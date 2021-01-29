@@ -2,5 +2,8 @@ body{
 	background: #11A7F2;
 	font-weight: bold;
 	color: #fff;
-	font-size:18px;
+	font-size:40px;
+}
+p{
+	color: #000;
 }
